@@ -42,9 +42,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/angelvyas/count.svg?"  />
-</div>
+
 
 
 ### hi my name is angel vyas.
